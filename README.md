@@ -1,2 +1,2 @@
 # projeto-site
- Projeto de um site criado durante o curso de Git e GitHub, atulização de branch 
+ Projeto de um site criado durante o curso de Git e GitHub, atilização de branch 
